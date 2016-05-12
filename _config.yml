@@ -1,0 +1,28 @@
+name: spiritofthewench
+favicon: null
+layout_spectrum: 0.8103235112503171
+typography_spectrum: 0.26023370143957436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.05064363917335868
+  lightness: 0.9063845460768789
+  saturation: 0.9023565736133605
+  rhythmicContrast: 0.5071642545517534
+purpose: []
